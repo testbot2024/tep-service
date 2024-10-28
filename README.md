@@ -1,9 +1,15 @@
-# Welcome to tep-service
+# `Wrappid` Service Boilerplate
+```
+                                    _     _
+    __      ___ __ __ _ _ __  _ __ (_) __| |
+    \ \ /\ / / '__/ _` | '_ \| '_ \| |/ _` |
+     \ V  V /| | | (_| | |_) | |_) | | (_| |
+      \_/\_/ |_|  \__,_| .__/| .__/|_|\__,_|
+                       |_|   |_|
 
-This project was created by testbot2024 .
+```
 
-
-**This {{project_name}} is  created using wrappid  **
+**This is a template documentation, @wrappid/toolkit uses this template to create backend service boilerplate.**
 
 
 **Table of Contents**
@@ -120,5 +126,3 @@ As of now 1 npm package is used by `wrappid-service`, i.e,
  3.1. @wrappid/service-core   
 
 ### 4.1. Wrappid Service-Core Package
-
-url link to original template: [Original Template Wrappid](https://github.com/wrappid/wrappid-service)
